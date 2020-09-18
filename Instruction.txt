@@ -1,0 +1,6 @@
+git init
+npm init 
+npm i express
+npm i -D nodemon // -D means dev dependency , only for dev not for prod
+node <filname>  // to start
+npm run <instruction> // instruction just check or add in package.json file
